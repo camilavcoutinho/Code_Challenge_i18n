@@ -4,5 +4,5 @@
     "admin/no-app-selected.title": "Choose an App",
     "admin/no-app-selected.state": "Choose an App to make queries",
     "admin/layout.title": "GraphQL IDE",
-    "admin/controller.app-picker": "Choose an App"
+    "admin/controller.app-picker": "Choose an app"
 }
