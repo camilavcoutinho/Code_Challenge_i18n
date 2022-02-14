@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- French files
+- French files.
 
 ## [3.2.0] - 2020-12-11
 
