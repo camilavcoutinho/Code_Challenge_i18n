@@ -8,7 +8,7 @@
   - Create a new commit for each task reflecting the changes made.
 
   ### First task
-  - Update the translations for these strings in the English file:
+  - Update the translations for these strings in the English file in the `/messages/` folder:
   
   ```
     "admin/instore.search-configuration.new-search": "Please try another search",
@@ -23,10 +23,10 @@
   ```
 
   ### Second task
-  - Replace all occurrences of `inventory` with `stock` in the English file.
+  - Replace all occurrences of `inventory` with `stock` in that same file.
   
   ### Third task
-  - Add these strings to the Portuguese file:
+  - Add these strings to the Portuguese file (`/messages/pt.json`) and fix any issues that may arise:
   
   ```
     "admin/instore.shared-labels.modal-discard.content-singular": "Tem certeza de que deseja descartar a alteração?",
