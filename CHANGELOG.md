@@ -8,6 +8,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+
+- Update the translations in the English file in the `/messages/` folder.
+- Replace all the occurrences of `inventory` with `stock` in the English file.
+- Add strings to the Portuguese file and fix issues.
+
 ## [13.0.9] - 2023-01-03
 ### Fixed
 
