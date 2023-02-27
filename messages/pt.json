@@ -247,5 +247,9 @@
     "admin/instore.registration.physical-stores.minimum-string-length-validation.phone": "O telefone deve ter no mínimo 10 dígitos",
     "admin/instore.shared-labels.store-with-associated-sellers": "Não foi possível excluir a loja",
     "admin/instore.registration.physical-stores.store-with-associated-sellers-modal.content": "Existem vendedores associados a esta loja. Exclua ou desassocie os vendedores para poder apagá-la.",
-    "admin/instore.shared-labels.modal-understanding-button": "Entendi"
+    "admin/instore.shared-labels.modal-understanding-button": "Entendi",
+    "admin/instore.shared-labels.modal-discard.content-singular": "Tem certeza de que deseja descartar a alteração?",
+    "admin/instore.shared-labels.modal-discard.title-singular": "Descartar alteração",
+    "admin/instore.shared-labels.modal-save.title-singular": "Salvar alteração",
+    "admin/instore.shared-labels.modal-save.title-plural": "Salvar alterações",
   }
