@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 
 ## [Unreleased]
+### Fixed 
+
+- Translations in the English strings was modified;
+- The occurrencies of inventory were replaced with stock;
+- Added strings in Portuguese file;
 
 ## [13.0.9] - 2023-01-03
 ### Fixed
