@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 
 ## [Unreleased]
+### Fixed
+
+- Updated the translations on en.json package
+- Replaced inventory with stock on en.json package
+- New strings added to the pt.json package
 
 ## [13.0.9] - 2023-01-03
 ### Fixed
