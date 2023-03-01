@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 
 ## [Unreleased]
+### Fixed
+- Updating the translations on the requested strings;
+- Replacing 'inventory' with 'stock' on the requested strings;
+### Added
+- Adding the requested strings on the pt.json file.
 
 ## [13.0.9] - 2023-01-03
 ### Fixed
